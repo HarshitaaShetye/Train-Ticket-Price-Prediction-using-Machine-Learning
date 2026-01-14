@@ -1,2 +1,2 @@
-# Train-Ticket-Price-Prediction-using-Machine-Learning
-Predicting the train ticket price using the machine learning .
+# Train-Ticket-Price-Prediction
+A machine learning regression project that predicts Indian railway ticket prices based on source, destination, travel date, passenger details, and coach type..
